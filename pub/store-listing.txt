@@ -5,7 +5,7 @@ Clark County C-TRAN Bus for MonTransit.
 Schedule. Rider Alerts. News.
 ----------
 What's new in this version?:
-Schedule from May 1, 2016 to September 30, 2016.
+Schedule from September 5, 2016 to January 31, 2017.
 Rider Alerts from www.c-tran.com.
 News from @ctranvancouver.
 ----------
