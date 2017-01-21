@@ -1,7 +1,5 @@
 203,0,'99th St TC',2
 204,0,'Downtown Van',2
-401,0,'Van Mall TC',4
-402,0,'Vanport MAX',4
 602,0,'Fruit Vly',6
 601,0,'Grand Central',6
 703,0,'Battle Ground',7
@@ -32,6 +30,7 @@
 7104,0,'Downtown Van',71
 7201,0,'152nd Ave',72
 7202,0,'Van Mall TC',72
+7301,0,'Van Mall TC',73
 7401,0,'162nd Ave',74
 7402,0,'Van Mall TC',74
 7802,0,'99th St TC',78
@@ -54,3 +53,5 @@
 19003,0,'Vancouver',190
 19904,0,'Portland',199
 19903,0,'Vancouver',199
+100002,0,'Turtle Pl Sta',1000
+100001,0,'Van Mall TC',1000
