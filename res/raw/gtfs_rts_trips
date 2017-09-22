@@ -20,8 +20,10 @@
 3901,0,'Stapleton',39
 4102,0,'Downtown Van',41
 4101,0,'Fisher''s Landing TC',41
-4704,0,'Vanport MAX',47
+4704,0,'Downtown Van',47
 4703,0,'Yacolt',47
+5002,0,'Downtown Van',50
+5001,0,'Van Mall TC',50
 6004,0,'Delta Pk',60
 6003,0,'Downtown Van',60
 6503,0,'Fisher''s Landing TC',65
@@ -53,5 +55,3 @@
 19003,0,'Vancouver',190
 19904,0,'Portland',199
 19903,0,'Vancouver',199
-100002,0,'Turtle Pl Sta',1000
-100001,0,'Van Mall TC',1000
