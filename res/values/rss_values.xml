@@ -7,16 +7,16 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
-        <item>http://www.c-tran.com/about-c-tran/news/rider-alerts?format=feed&amp;type=rss</item>
-        <item>http://c-tran.com/?format=feed&amp;type=rss</item>
+        <item>https://www.c-tran.com/about-c-tran/news/rider-alerts?format=feed&amp;type=rss</item>
+        <item>https://www.c-tran.com/about-c-tran/news/news-releases?format=feed&amp;type=rss</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>Rider Alerts (C-TRAN)</item>
         <item>News &amp; Announcements (C-TRAN)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.c-tran.com/about-c-tran/news/rider-alerts</item>
-        <item>http://www.c-tran.com/about-c-tran/news/news-releases</item>
+        <item>https://www.c-tran.com/about-c-tran/news/rider-alerts</item>
+        <item>https://www.c-tran.com/about-c-tran/news/news-releases</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.c-tran.com</item>
