@@ -1,122 +1,3 @@
-'Sun / Hol',20190101
-'Weekday',20190102
-'Weekday',20190103
-'Weekday',20190104
-'Saturday',20190105
-'Sun / Hol',20190106
-'Weekday',20190107
-'Weekday',20190108
-'Weekday',20190109
-'Weekday',20190110
-'Weekday',20190111
-'Saturday',20190112
-'Sun / Hol',20190113
-'Weekday',20190114
-'Weekday',20190115
-'Weekday',20190116
-'Weekday',20190117
-'Weekday',20190118
-'Saturday',20190119
-'Sun / Hol',20190120
-'Weekday',20190121
-'Weekday',20190122
-'Weekday',20190123
-'Weekday',20190124
-'Weekday',20190125
-'Saturday',20190126
-'Sun / Hol',20190127
-'Weekday',20190128
-'Weekday',20190129
-'Weekday',20190130
-'Weekday',20190131
-'Weekday',20190201
-'Saturday',20190202
-'Sun / Hol',20190203
-'Weekday',20190204
-'Weekday',20190205
-'Weekday',20190206
-'Weekday',20190207
-'Weekday',20190208
-'Saturday',20190209
-'Sun / Hol',20190210
-'Weekday',20190211
-'Weekday',20190212
-'Weekday',20190213
-'Weekday',20190214
-'Weekday',20190215
-'Saturday',20190216
-'Sun / Hol',20190217
-'Weekday',20190218
-'Weekday',20190219
-'Weekday',20190220
-'Weekday',20190221
-'Weekday',20190222
-'Saturday',20190223
-'Sun / Hol',20190224
-'Weekday',20190225
-'Weekday',20190226
-'Weekday',20190227
-'Weekday',20190228
-'Weekday',20190301
-'Saturday',20190302
-'Sun / Hol',20190303
-'Weekday',20190304
-'Weekday',20190305
-'Weekday',20190306
-'Weekday',20190307
-'Weekday',20190308
-'Saturday',20190309
-'Sun / Hol',20190310
-'Weekday',20190311
-'Weekday',20190312
-'Weekday',20190313
-'Weekday',20190314
-'Weekday',20190315
-'Saturday',20190316
-'Sun / Hol',20190317
-'Weekday',20190318
-'Weekday',20190319
-'Weekday',20190320
-'Weekday',20190321
-'Weekday',20190322
-'Saturday',20190323
-'Sun / Hol',20190324
-'Weekday',20190325
-'Weekday',20190326
-'Weekday',20190327
-'Weekday',20190328
-'Weekday',20190329
-'Saturday',20190330
-'Sun / Hol',20190331
-'Weekday',20190401
-'Weekday',20190402
-'Weekday',20190403
-'Weekday',20190404
-'Weekday',20190405
-'Saturday',20190406
-'Sun / Hol',20190407
-'Weekday',20190408
-'Weekday',20190409
-'Weekday',20190410
-'Weekday',20190411
-'Weekday',20190412
-'Saturday',20190413
-'Sun / Hol',20190414
-'Weekday',20190415
-'Weekday',20190416
-'Weekday',20190417
-'Weekday',20190418
-'Weekday',20190419
-'Saturday',20190420
-'Sun / Hol',20190421
-'Weekday',20190422
-'Weekday',20190423
-'Weekday',20190424
-'Weekday',20190425
-'Weekday',20190426
-'Saturday',20190427
-'Sun / Hol',20190428
-'Weekday',20190429
 'Weekday',20190430
 'Weekday',20190501
 'Weekday',20190502
@@ -149,3 +30,102 @@
 'Weekday',20190529
 'Weekday',20190530
 'Weekday',20190531
+'Saturday',20190601
+'Sun / Hol',20190602
+'Weekday',20190603
+'Weekday',20190604
+'Weekday',20190605
+'Weekday',20190606
+'Weekday',20190607
+'Saturday',20190608
+'Sun / Hol',20190609
+'Weekday',20190610
+'Weekday',20190611
+'Weekday',20190612
+'Weekday',20190613
+'Weekday',20190614
+'Saturday',20190615
+'Sun / Hol',20190616
+'Weekday',20190617
+'Weekday',20190618
+'Weekday',20190619
+'Weekday',20190620
+'Weekday',20190621
+'Saturday',20190622
+'Sun / Hol',20190623
+'Weekday',20190624
+'Weekday',20190625
+'Weekday',20190626
+'Weekday',20190627
+'Weekday',20190628
+'Saturday',20190629
+'Sun / Hol',20190630
+'Weekday',20190701
+'Weekday',20190702
+'Weekday',20190703
+'Sun / Hol',20190704
+'Weekday',20190705
+'Saturday',20190706
+'Sun / Hol',20190707
+'Weekday',20190708
+'Weekday',20190709
+'Weekday',20190710
+'Weekday',20190711
+'Weekday',20190712
+'Saturday',20190713
+'Sun / Hol',20190714
+'Weekday',20190715
+'Weekday',20190716
+'Weekday',20190717
+'Weekday',20190718
+'Weekday',20190719
+'Saturday',20190720
+'Sun / Hol',20190721
+'Weekday',20190722
+'Weekday',20190723
+'Weekday',20190724
+'Weekday',20190725
+'Weekday',20190726
+'Saturday',20190727
+'Sun / Hol',20190728
+'Weekday',20190729
+'Weekday',20190730
+'Weekday',20190731
+'Weekday',20190801
+'Weekday',20190802
+'Saturday',20190803
+'Sun / Hol',20190804
+'Weekday',20190805
+'Weekday',20190806
+'Weekday',20190807
+'Weekday',20190808
+'Weekday',20190809
+'Saturday',20190810
+'Sun / Hol',20190811
+'Weekday',20190812
+'Weekday',20190813
+'Weekday',20190814
+'Weekday',20190815
+'Weekday',20190816
+'Saturday',20190817
+'Sun / Hol',20190818
+'Weekday',20190819
+'Weekday',20190820
+'Weekday',20190821
+'Weekday',20190822
+'Weekday',20190823
+'Saturday',20190824
+'Sun / Hol',20190825
+'Weekday',20190826
+'Weekday',20190827
+'Weekday',20190828
+'Weekday',20190829
+'Weekday',20190830
+'Saturday',20190831
+'Sun / Hol',20190901
+'Sun / Hol',20190902
+'Weekday',20190903
+'Weekday',20190904
+'Weekday',20190905
+'Weekday',20190906
+'Saturday',20190907
