@@ -1,28 +1,3 @@
-'Weekday',20190905
-'Weekday',20190906
-'Saturday',20190907
-'Sun / Hol',20190908
-'Weekday',20190909
-'Weekday',20190910
-'Weekday',20190911
-'Weekday',20190912
-'Weekday',20190913
-'Saturday',20190914
-'Sun / Hol',20190915
-'Weekday',20190916
-'Weekday',20190917
-'Weekday',20190918
-'Weekday',20190919
-'Weekday',20190920
-'Saturday',20190921
-'Sun / Hol',20190922
-'Weekday',20190923
-'Weekday',20190924
-'Weekday',20190925
-'Weekday',20190926
-'Weekday',20190927
-'Saturday',20190928
-'Sun / Hol',20190929
 'Weekday',20190930
 'Weekday',20191001
 'Weekday',20191002
@@ -115,7 +90,7 @@
 'Saturday',20191228
 'Sun / Hol',20191229
 'Weekday',20191230
-'Weekday',20191231
+'NYE',20191231
 'Sun / Hol',20200101
 'Weekday',20200102
 'Weekday',20200103

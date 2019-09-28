@@ -1,15 +1,15 @@
 200,0,'99th St TC',2
 201,0,'Broadway & Evergreen Blv',2
-600,0,'Columbia House Blvd @ P',6
-601,0,'Fruit Vly Rd & La Fra',6
-701,0,'Grace & Rasmussen',7
-700,0,'Van Mall Transit Ctr',7
+601,0,'Columbia House Blvd @ P',6
+600,0,'Fruit Vly Rd & La Fra',6
+700,0,'Grace & Rasmussen',7
+701,0,'Van Mall Transit Ctr',7
 901,0,'99th St TC',9
 900,0,'NE 139th St & 10th Ave',9
 1900,0,'99th St TC',19
 1901,0,'NE 29th Ave & WSUV Trl',19
-2501,0,'99th St TC',25
-2500,0,'Mill Plain & Franklin [e',25
+2500,0,'99th St TC',25
+2501,0,'Mill Plain & Franklin [e',25
 3000,0,'Broadway & Evergreen Blv',30
 3001,0,'Fisher''s Lndg Transit',30
 3100,0,'99th St TC',31
@@ -38,8 +38,8 @@
 7400,0,'Van Mall Transit Ctr',74
 7800,0,'99th St TC',78
 7801,0,'Van Mall Transit Ctr',78
-8000,0,'Fisher''s Lndg Transit',80
-8001,0,'Van Mall Transit Ctr',80
+8001,0,'Fisher''s Lndg Transit',80
+8000,0,'Van Mall Transit Ctr',80
 9201,0,'Addy St & Addy Loop',92
 9200,0,'Fisher''s Lndg Transit',92
 10501,0,'SW 6th & Columbia',105
