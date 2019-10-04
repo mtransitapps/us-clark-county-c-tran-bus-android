@@ -174,7 +174,6 @@
 964,'964','NW 6th Ave & Norwood',45.58239,-122.426132
 967,'967','NW 6th Ave & 6th Ave [eb]',45.582249,-122.426086
 968,'968','NW 6th Ave & Ivy [eb]',45.583382,-122.420609
-970,'970','I-5 && BURNSIDE',45.522999,-122.665581
 972,'972','Ft Vancouver Wy @ O''Connell Sports Ctr [nb]',45.63456,-122.655807
 973,'973','Ft Vancouver Wy @ Gaiser Hall [nb]',45.636662,-122.651939
 974,'974','Ft Vancouver Wy & 25th St',45.639389,-122.647598
@@ -285,13 +284,9 @@
 1145,'1145','Evergreen Blvd & Grand [wb]',45.626099,-122.639961
 1146,'1146','Evergreen Blvd 2500 Block',45.625938,-122.645218
 1147,'1147','Evergreen Blvd & V St [wb]',45.625851,-122.648453
-1148,'1148','I-5 & Columbia Way Fwy Stop NB',45.621429,-122.673027
 1149,'1149','Evergreen Blvd 1400 Block [wb]',45.626778,-122.655518
 1150,'1150','Evergreen Blvd @ Grant House [wb]',45.627972,-122.660294
 1151,'1151','Evergreen Blvd 800 Block',45.628689,-122.66423
-1152,'1152','I-5 & E 39th St Fwy Stop SB',45.649796,-122.661858
-1154,'1154','I-5 & Columbia Way Fwy Stop SB',45.621513,-122.67334
-1156,'1156','I-5 & Lombard Fwy Stop SB',45.577187,-122.678703
 1168,'1168','NE 3rd Ave & Joy St [eb]',45.58823,-122.397652
 1169,'1169','NE 3rd Ave 1400 Block',45.588688,-122.396698
 1171,'1171','E St 1700 Block',45.581017,-122.352348
