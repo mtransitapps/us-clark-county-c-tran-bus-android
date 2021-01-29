@@ -1,13 +1,13 @@
 200,0,'99th St TC',2
 201,0,'Broadway & Evergreen Blvd',2
-601,0,'Columbia House Blvd @ Pk & Ride',6
+601,0,'Columbia House Blvd @ P&R',6
 600,0,'Fruit Vly Rd & La Frambois',6
 700,0,'Battle Ground',7
 701,0,'Van Mall TC',7
+900,0,'139th St & 10th Ave',9
 901,0,'99th St TC',9
-900,0,'NE 139th St & 10th Ave',9
+1901,0,'29th Ave & WSUV Trl',19
 1900,0,'99th St TC',19
-1901,0,'NE 29th Ave & WSUV Trl',19
 2500,0,'99th St TC',25
 2501,0,'Mill Plain & Franklin',25
 3000,0,'Broadway & Evergreen Blvd',30
@@ -34,7 +34,7 @@
 7101,0,'Vancouver Waterfront',71
 7201,0,'Orchards',72
 7200,0,'Van Mall TC',72
-7401,0,'East 4th Plain',74
+7401,0,'E 4th Plain',74
 7400,0,'Van Mall TC',74
 7800,0,'99th St TC',78
 7801,0,'Van Mall TC',78
@@ -42,13 +42,13 @@
 8000,0,'Van Mall TC',80
 9201,0,'Addy St & Addy Loop',92
 9200,0,'Fishers Lndg TC',92
-10501,0,'SW 6th & Columbia',105
+10501,0,'5th & Alder / 6th & Columbia',105
 10500,0,'Salmon Crk P&R',105
 13401,0,'PDX',134
 13400,0,'SC',134
 15700,0,'99th St TC',157
-15701,0,'NE Multnomah & 3rd',157
+15701,0,'Multnomah & 3rd',157
+16400,0,'5th & Harrison',164
 16401,0,'Fishers Lndg TC',164
-16400,0,'SW 6th & Mkt',164
 19000,0,'Andresen P&R',190
-19001,0,'SW Campus Dr & Terwilliger',190
+19001,0,'Campus Dr & Terwilliger',190
