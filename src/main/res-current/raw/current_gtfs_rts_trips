@@ -1,7 +1,7 @@
 200,0,'99th St TC',2
 201,0,'Broadway & Evergreen Blvd',2
-601,0,'Columbia House Blvd P&R',6
-600,0,'La Frambois',6
+601,0,'Columbia House Blvd @ P&R',6
+600,0,'Fruit Vly Rd & La Frambois',6
 700,0,'Battle Ground',7
 701,0,'Van Mall TC',7
 900,0,'139th St & 10th Ave',9
@@ -22,6 +22,8 @@
 4100,0,'Fishers Lndg TC',41
 4701,0,'Battle Ground / Yacolt',47
 4700,0,'Van Mall TC',47
+4801,0,'99th St TC',48
+4800,0,'Junction P&R',48
 5001,0,'City Ctr',50
 5000,0,'Van Mall TC',50
 6000,0,'City Ctr',60
@@ -38,17 +40,13 @@
 7400,0,'Van Mall TC',74
 7800,0,'99th St TC',78
 7801,0,'Van Mall TC',78
-8001,0,'Fishers Lndg TC',80
+8001,0,'Fisher''s Lndg TC',80
 8000,0,'Van Mall TC',80
 9201,0,'Addy St & Addy Loop',92
 9200,0,'Fishers Lndg TC',92
-10501,0,'5th & Alder / 6th & Columbia',105
+10501,0,'5th & Hall',105
 10500,0,'Salmon Crk P&R',105
-13401,0,'PDX',134
-13400,0,'SC',134
-15700,0,'99th St TC',157
-15701,0,'Multnomah & 3rd',157
-16401,0,'5th & Harrison',164
-16400,0,'Fishers Lndg TC',164
+16400,0,'5th & Harrison',164
+16401,0,'Fishers Lndg TC',164
 19000,0,'Andresen P&R',190
 19001,0,'Campus Dr @ Doernbecher',190
