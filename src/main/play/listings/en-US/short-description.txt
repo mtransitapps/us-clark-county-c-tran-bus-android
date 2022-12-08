@@ -1,2 +1,1 @@
-Clark County C-TRAN Bus for MonTransit.
-Schedule. Rider Alerts. News.
+Clark County C-TRAN Bus for MonTransit. Schedule. Rider Alerts. News.

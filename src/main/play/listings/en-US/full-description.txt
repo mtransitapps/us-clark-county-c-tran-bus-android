@@ -6,12 +6,12 @@ C-TRAN buses serve Battle Ground, Camas, Vancouver and Washougal in Clark County
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the Clark County Public Transit Benefit Area (C-TRAN).
-http://www.c-tran.com/about-c-tran/business/c-tran-gtfs-data
+https://www.c-tran.com/about-c-tran/business/c-tran-gtfs-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/us-clark-county-c-tran-bus-android
