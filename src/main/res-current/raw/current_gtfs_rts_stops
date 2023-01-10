@@ -71,7 +71,6 @@
 631,'631','Broadway & 7th St NB',45.626251,-122.670502
 632,'632','Broadway & Evergreen Blvd NB',45.62851,-122.670441
 633,'633','Broadway & 13th St NB',45.631333,-122.67046
-635,'635','Evergreen Blvd & Broadway WB',45.628811,-122.670334
 638,'638','W 8th St & Main EB',45.627134,-122.671968
 648,'648','E 20th St & Grand Blvd EB',45.635799,-122.640984
 649,'649','E 18th St & Murton EB',45.635172,-122.638954
@@ -249,7 +248,6 @@
 1100,'1100','Fourth Plain & 112th Ave WB',45.665953,-122.558443
 1102,'1102','Fourth Plain 10700 Block WB',45.664492,-122.56275
 1103,'1103','Fourth Plain & 105th Ave WB',45.663648,-122.564946
-1104,'1104','Evergreen Blvd & C St EB',45.628696,-122.669815
 1105,'1105','Evergreen Blvd @ Grant House EB',45.627858,-122.660092
 1106,'1106','Evergreen Blvd 1400 Block EB',45.627027,-122.656612
 1107,'1107','Evergreen Blvd & Reserve St EB',45.62606,-122.65448
@@ -292,7 +290,6 @@
 1178,'1178','C St & Pendleton WB',45.5793,-122.354111
 1192,'1192','Mill Plain & V St EB',45.628218,-122.648092
 1193,'1193','Mill Plain & Z St EB',45.628231,-122.64418
-1194,'1194','Mill Plain & Grand EB',45.628265,-122.640022
 1196,'1196','Mill Plain & Rhododendron EB',45.627958,-122.628545
 1197,'1197','Mill Plain & Manzanita Wy EB',45.628477,-122.624792
 1199,'1199','Mill Plain & Ogden EB',45.628624,-122.617645
@@ -310,9 +307,7 @@
 1227,'1227','Mill Plain & 120th Ave WB',45.620631,-122.550007
 1229,'1229','Mill Plain & 104th Ave WB',45.621135,-122.563913
 1233,'1233','Mill Plain & 92nd Ave WB',45.622329,-122.578873
-1234,'1234','Mill Plain & 90th Ave WB',45.622759,-122.580859
 1242,'1242','Mill Plain & Morrison Ave WB',45.62558,-122.595718
-1244,'1244','Mill Plain & Andresen WB',45.627048,-122.602364
 1245,'1245','Mill Plain 6500 Block WB',45.627567,-122.605026
 1249,'1249','Mill Plain & Manzanita Wy WB',45.628668,-122.625883
 1250,'1250','Mill Plain & Brandt Rd WB',45.627872,-122.629486
@@ -394,7 +389,6 @@
 2098,'2098','St James & 59th St SB',45.664915,-122.638351
 2099,'2099','St James & 50th Cir SB',45.657711,-122.637779
 2104,'2104','Ft Vancouver Wy @ O''Connell Sports Ctr SB',45.634804,-122.655874
-2106,'2106','Mill Plain & 98th Ave EB',45.620871,-122.572083
 2108,'2108','Mill Plain & 126th Ave EB',45.619469,-122.541603
 2115,'2115','Mill Plain & Missoula WB',45.6283,-122.609619
 2117,'2117','Mill Plain & Ogden Ave WB',45.628818,-122.619111
@@ -876,6 +870,7 @@
 6190,'6190','NE 51st Cir & 110th Ave EB',45.658467,-122.560295
 6193,'6193','SE 136th Ave & 14th St SB',45.611769,-122.532637
 6194,'6194','Andresen & 78th St',45.677783,-122.602148
+6195,'6195','Evergreen & Broadway EB',45.628695,-122.670753
 6199,'6199','Portland International Airport',45.588024,-122.593176
 6200,'6200','NE Grace Ave & E Main St NB',45.781197,-122.529097
 6201,'6201','NE Grace Ave & E Main St SB',45.781192,-122.529299
@@ -910,4 +905,4 @@
 7048,'7048','Mill Plain & 97th WB',45.6211,-122.572726
 7049,'7049','Mill Plain & Hearthwood WB',45.617792,-122.523751
 7050,'7050','Mill Plain & Pk Crest Commons WB',45.617269,-122.518823
-7051,'7051','Evergreen & Broadway EB',45.628695,-122.670753
+7053,'7053','Mill Plain & 98th Ave EB',45.621084,-122.573945
