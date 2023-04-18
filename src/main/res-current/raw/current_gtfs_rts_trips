@@ -1,35 +1,35 @@
-200,0,'99th St TC',2
-201,0,'Downtown Vancouver',2
-601,0,'Fruit Vly',6
-600,0,'Grand Central',6
+201,0,'99th St TC',2
+200,0,'Downtown Vancouver',2
+600,0,'Fruit Vly',6
+601,0,'Grand Central',6
 700,0,'Battle Ground',7
 701,0,'Van Mall TC',7
-901,0,'99th St TC',9
-900,0,'Salmon Crk',9
+900,0,'99th St TC',9
+901,0,'Salmon Crk',9
 1900,0,'99th St TC',19
 1901,0,'WSU Vancouver',19
-2501,0,'99th St TC',25
-2500,0,'Downtown Vancouver',25
+2500,0,'99th St TC',25
+2501,0,'Downtown Vancouver',25
 3001,0,'Downtown Vancouver',30
 3000,0,'Fishers Lndg TC',30
-3101,0,'99th St TC',31
-3100,0,'Downtown Vancouver',31
-3200,0,'Downtown Vancouver',32
-3201,0,'Van Mall TC',32
+3100,0,'99th St TC',31
+3101,0,'Downtown Vancouver',31
+3201,0,'Downtown Vancouver',32
+3200,0,'Van Mall TC',32
 3701,0,'Downtown Vancouver',37
 3700,0,'Fishers Lndg TC',37
-4101,0,'Downtown Vancouver',41
-4100,0,'Fishers Lndg TC',41
+4100,0,'Downtown Vancouver',41
+4101,0,'Fishers Lndg TC',41
 4700,0,'Van Mall TC',47
 4701,0,'Yacolt',47
-4800,0,'99th St TC',48
-4801,0,'Ridgefield',48
+4801,0,'99th St TC',48
+4800,0,'Ridgefield',48
 5001,0,'City Ctr',50
 5000,0,'Van Mall TC',50
-6000,0,'Delta Pk',60
-6001,0,'Downtown Vancouver',60
-6500,0,'Fishers Lndg TC',65
-6501,0,'Parkrose / Sumner TC',65
+6001,0,'Delta Pk',60
+6000,0,'Downtown Vancouver',60
+6501,0,'Fishers Lndg TC',65
+6500,0,'Parkrose / Sumner TC',65
 6700,0,'Fishers Lndg TC',67
 6701,0,'Portland International Airport',67
 7100,0,'99th St TC',71
@@ -40,13 +40,13 @@
 7400,0,'Van Mall TC',74
 7801,0,'99th St TC',78
 7800,0,'Van Mall TC',78
-8001,0,'Fisher''s Lndg TC',80
-8000,0,'Van Mall TC',80
-9201,0,'Camas & Washougal',92
-9200,0,'Fishers Lndg TC',92
-10501,0,'Portland',105
-10500,0,'Vancouver / 99 St TC / Salmon Crk',105
+8000,0,'Fisher''s Lndg TC',80
+8001,0,'Van Mall TC',80
+9200,0,'Camas & Washougal',92
+9201,0,'Fishers Lndg TC',92
+10500,0,'Portland',105
+10501,0,'Vancouver / 99 St TC / Salmon Crk',105
 16401,0,'Fishers Lndg TC',164
 16400,0,'Portland',164
-19001,0,'Andresen P&R',190
-19000,0,'Marquam Hl',190
+19000,0,'Andresen P&R',190
+19001,0,'Marquam Hl',190
