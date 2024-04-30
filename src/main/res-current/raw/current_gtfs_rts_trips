@@ -8,8 +8,8 @@
 901,0,'Salmon Crk',9
 1900,0,'99th St TC',19
 1901,0,'WSU Vancouver',19
-2500,0,'99th St TC',25
-2501,0,'Downtown Vancouver',25
+2501,0,'99th St TC',25
+2500,0,'Downtown Vancouver',25
 3001,0,'Downtown Vancouver',30
 3000,0,'Fisher''s Lndg TC',30
 3101,0,'99th St TC',31
@@ -20,30 +20,30 @@
 3401,0,'Mill Plain TC',34
 4100,0,'Camas & Washougal',41
 4101,0,'Downtown Vancouver',41
-4701,0,'Van Mall TC',47
-4700,0,'Yacolt',47
+4700,0,'Van Mall TC',47
+4701,0,'Yacolt',47
 4801,0,'99th St TC',48
 4800,0,'Ilani / Junction P&R',48
-6001,0,'Delta Pk',60
-6000,0,'Downtown Vancouver',60
+6000,0,'Delta Pk',60
+6001,0,'Downtown Vancouver',60
 6501,0,'Fisher''s Lndg TC',65
 6500,0,'Parkrose / Sumner TC',65
-6700,0,'Fisher''s Lndg TC',67
-6701,0,'Portland International Airport',67
-7101,0,'99th St TC',71
-7100,0,'Vancouver Waterfront',71
+6701,0,'Fisher''s Lndg TC',67
+6700,0,'Portland International Airport',67
+7100,0,'99th St TC',71
+7101,0,'Vancouver Waterfront',71
 7201,0,'Orchards',72
 7200,0,'Van Mall TC',72
-7401,0,'Mill Plain TC',74
-7400,0,'Van Mall TC',74
+7400,0,'Mill Plain TC',74
+7401,0,'Van Mall TC',74
 7801,0,'99th St TC',78
 7800,0,'Van Mall TC',78
 8001,0,'Fisher''s Lndg TC',80
 8000,0,'Van Mall TC',80
-9200,0,'Camas & Washougal',92
-9201,0,'Mill Plain TC',92
-10501,0,'Portland',105
-10500,0,'Vancouver / 99th St TC',105
+9201,0,'Camas & Washougal',92
+9200,0,'Mill Plain TC',92
+10500,0,'Portland',105
+10501,0,'Vancouver / 99th St TC',105
 16401,0,'Fisher''s Lndg TC',164
 16400,0,'Portland',164
 19000,0,'Andresen P&R',190
@@ -52,5 +52,5 @@
 100700,0,'Vancouver City Ctr',1007
 101801,0,'Mill Plain TC',1018
 101800,0,'Vancouver City Ctr',1018
-24010501,0,'99th St TC',240105
-24010500,0,'Portland',240105
+24010500,0,'99th St TC',240105
+24010501,0,'Portland',240105
