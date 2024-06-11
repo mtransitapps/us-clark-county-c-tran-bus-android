@@ -23,6 +23,11 @@
 105,'105','I-5 Express','ffcb05',48630,3
 164,'164','Fisher''s Landing Express','ffcb05',48815,3
 190,'190','Marquam Hill Express','ffcb05',48904,3
+983,'983','Fair Bus 99th Street','',56564,3
+985,'985','Fair Bus Van Mall','',56566,3
+987,'987','Fair Bus Fisher''s/Mill Plain','',56568,3
+988,'988','Fair Bus Battle Ground/Yacolt','',56569,3
+989,'989','Fair Bus La Center/Ridgefield','',56570,3
 1007,'Green','The Vine On Fourth Plain','2d9a47',47819,3
 1018,'Red','The Vine On Mill Plain','d2232a',47820,3
 240105,'105X','I-5X Express','ffcb05',48631,3
