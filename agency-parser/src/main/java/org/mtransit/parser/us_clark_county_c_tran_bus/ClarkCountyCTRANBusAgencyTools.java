@@ -70,10 +70,13 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern STARTS_WITH_0_ = Pattern.compile("(^0+)");
 
+	private static final Pattern STARTS_WITH_VINE_ = Pattern.compile("(^Vine (- )?)", Pattern.CASE_INSENSITIVE);
+
 	@NotNull
 	@Override
 	public String cleanRouteShortName(@NotNull String routeShortName) {
 		routeShortName = STARTS_WITH_0_.matcher(routeShortName).replaceAll(EMPTY);
+		routeShortName = STARTS_WITH_VINE_.matcher(routeShortName).replaceAll(EMPTY);
 		return super.cleanRouteShortName(routeShortName);
 	}
 
