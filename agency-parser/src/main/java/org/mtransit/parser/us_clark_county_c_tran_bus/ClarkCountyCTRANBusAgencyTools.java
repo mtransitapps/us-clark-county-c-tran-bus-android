@@ -7,6 +7,7 @@ import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.ColorUtils;
 import org.mtransit.parser.DefaultAgencyTools;
+import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
@@ -28,11 +29,6 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	public String getAgencyName() {
 		return "C-TRAN";
@@ -47,25 +43,6 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
-	}
-
-	@Override
-	public boolean useRouteShortNameForRouteId() {
-		return true;
-	}
-
-	@Nullable
-	@Override
-	public Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
-		switch (routeShortName) {
-		case "Vine":
-			return 50L;
-		case "Red":
-			return 1018L;
-		case "Green":
-			return 1007L;
-		}
-		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
 
 	private static final Pattern STARTS_WITH_0_ = Pattern.compile("(^0+)");
@@ -149,9 +126,10 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 		case "177": return EXPRESS_ROUTES_COLOR;
 		case "190": return EXPRESS_ROUTES_COLOR;
 		case "199": return EXPRESS_ROUTES_COLOR;
+		default:
+			throw new MTLog.Fatal("Unexpected route short name '%s'!", getRouteShortName(gRoute));
 		// @formatter:on
 		}
-		return super.provideMissingRouteColor(gRoute);
 	}
 
 	@Override
@@ -162,7 +140,7 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String cleanRouteLongName(@NotNull String routeLongName) {
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(),routeLongName);
 	}
 
 	@Override
@@ -192,7 +170,7 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	@NotNull
@@ -204,7 +182,7 @@ public class ClarkCountyCTRANBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanSlashes(gStopName);
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
