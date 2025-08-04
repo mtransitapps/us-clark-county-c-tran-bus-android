@@ -1,0 +1,23 @@
+{
+  "default_route_id_enabled": "true",
+  "default_route_long_name_enabled": "true",
+  "route_short_name_cleaners": [
+    {
+      "regex": "^0+"
+    },
+    {
+      "regex": "(^Vine (- )?)"
+    }
+  ],
+  "route_colors": [],
+  "trip_headsign_cleaners": [
+    {
+      "regex": " no .*$"
+    },
+    {
+      "regex": "^(SW|NW|SE|NE) "
+    }
+  ],
+  "trip_headsign_remove_via": "true",
+  "direction_finder_enabled": "true"
+}
