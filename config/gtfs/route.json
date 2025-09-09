@@ -1,5 +1,8 @@
 {
   "default_route_id_enabled": "true",
+  "route_id_cleanup_regex": "",
+  "route_id_cleanup_regex_comment": "Compat w/ clean merged",
+  "route_id_clean_merged": "true",
   "default_route_long_name_enabled": "true",
   "route_short_name_cleaners": [
     {
