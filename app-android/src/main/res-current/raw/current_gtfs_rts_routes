@@ -2,6 +2,7 @@
 6,'6','Fruit Valley / Grand','3777bc',47670,3
 7,'7','Battle Ground','3777bc',47671,3
 9,'9','Felida','5da9dd',47673,3
+12,'12','112th Avenue','3777bc',47697,3
 19,'19','Salmon Creek','3777bc',47704,3
 25,'25','Saint Johns','3777bc',47731,3
 30,'30','Burton','3777bc',47757,3
@@ -26,8 +27,3 @@
 106,'105X','I-5X Express','ffcb05',48631,3
 164,'164','Fishers Landing Express','ffcb05',48815,3
 190,'190','Marquam Hill Express','ffcb05',48904,3
-983,'Fair','Fair Bus 99th Street','B3B324',56564,3
-985,'Fair','Fair Bus Van Mall','B3B324',56566,3
-987,'Fair','Fair Bus Fisher''s / Mill Plain','B3B324',56568,3
-988,'Fair','Fair Bus Battle Ground / Yacolt','B3B324',56569,3
-989,'Fair','Fair Bus La Center / Ridgefield','B3B324',56570,3
