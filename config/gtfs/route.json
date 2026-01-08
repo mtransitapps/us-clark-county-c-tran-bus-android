@@ -22,5 +22,6 @@
     }
   ],
   "trip_headsign_remove_via": "true",
-  "direction_finder_enabled": "true"
+  "direction_finder_enabled": "true",
+  "stop_id_clean_merged": "true"
 }
