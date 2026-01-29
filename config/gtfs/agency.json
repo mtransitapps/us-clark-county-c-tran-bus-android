@@ -4,7 +4,7 @@
   "default_color_enabled": "true",
   "default_color": "036CB6",
   "default_color_comment": "BLUE (from map PDF)",
-  "service_id_cleanup_regex": "",
+  "service_id_cleanup_regex": "^\\d-",
   "service_id_cleanup_regex_comment": "trigger verify uniqueness",
   "service_id_clean_merged": "true"
 }
