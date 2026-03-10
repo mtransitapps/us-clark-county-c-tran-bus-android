@@ -7,5 +7,5 @@
     <string name="gtfs_rts_timezone">America/Los_Angeles</string>
     <string name="gtfs_rts_color">3777BC</string>
     <string name="gtfs_rts_service_id_cleanup_regex">^\\d-</string>
-    <string name="gtfs_rts_route_id_cleanup_regex"></string>
+    <string name="gtfs_rts_route_id_cleanup_regex" />
 </resources>
