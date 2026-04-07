@@ -12,19 +12,19 @@
 41,'41','SR 14','3777BC',47789,3
 47,'47','Battle Ground / Yacolt','3777BC',47795,3
 48,'48','Ridgefield','3777BC',47796,3
-50,'Vine-Green','The Vine On Fourth Plain','2D9A47',47819,3
-51,'Vine-Red','The Vine On Mill Plain','D2232A',47820,3
+50,'50','The Vine Green','2D9A47',47819,3
+51,'51','The Vine Red','D2232A',47820,3
 60,'60','Delta Park Regional','3777BC',47850,3
 65,'65','Parkrose Regional','3777BC',47855,3
 67,'67','Airport Regional','3777BC',47857,3
 71,'71','Highway 99','3777BC',47882,3
 72,'72','Orchards','3777BC',47883,3
-74,'74','East Fourth Plain / 162nd Ave','3777BC',47885,3
+74,'74','East 4th Plain / 162nd Ave','3777BC',47885,3
 78,'78','78th Street','3777BC',47889,3
 80,'80','Van Mall / Fishers','3777BC',47912,3
 92,'92','Camas / Washougal','3777BC',47945,3
 105,'105','I-5 Express','3777BC',48630,3
-106,'105X','I-5X Express','3777BC',48631,3
+106,'106','I-5X Express','3777BC',48631,3
 164,'164','Fishers Landing Express','3777BC',48815,3
 190,'190','Marquam Hill Express','3777BC',48904,3
-899,'899','899','3777BC',55640,3
+899,'899','Shuttle','3777BC',55640,3
