@@ -3,9 +3,11 @@
 
 <img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
-## Download on the Play Store
+## Join the Private Beta
 
-<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.us_clark_county_c_tran_bus"><img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+[Join the Private Beta](https://play.google.com/apps/testing/org.mtransit.android.us_clark_county_c_tran_bus)
+
+Learn more about the [private beta program](https://github.com/mtransitapps/mtransit-for-android/wiki/Beta).
 
 ## Screenshots
 
@@ -18,10 +20,6 @@
 ## Social
 
 [Facebook](https://www.facebook.com/MonTransit) | [Twitter/X](https://twitter.com/montransit) | [Instagram](https://www.instagram.com/mtransit.apps) | [Threads](https://www.threads.com/@mtransit.apps)
-
-## BETA program
-
-Learn more about the BETA program [here](https://github.com/mtransitapps/mtransit-for-android/wiki/BETA)
 
 ## License
 
